@@ -2,7 +2,9 @@
 
 ## Sobre
 Esse repositório é um teste feito para anotações da aula 10 do curso de **Git e Github** feito por [Gustavo Guanabara](https://github.com/gustavoguanabara).
+
 Caso tenha interesse nesse curso, [clique aqui](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) para acessá-lo.
+
 Ele também fez um pdf com tudo o que eu coloquei aqui, então, caso tenha interesse em saber muito mais sobre a linguagem e não precisar ficar decorando todos os métodos, recomendo acessar [esse material](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf).
 ***
 ## Títulos
