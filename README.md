@@ -45,6 +45,7 @@ Para "riscado" ~~ ~~ ~~riscado~~
 
 ## Imagem/Gifs
 Arraste a imagem ou clique em "Attach files by dragging & dropping, selecting or pasting them." e clique na imagem desejada para usar o arquivo em seu computador.
+
 ![github](https://user-images.githubusercontent.com/79657871/110247693-45c96280-7f4c-11eb-9a53-f60422519aba.png)
 
 ## Links
@@ -66,6 +67,7 @@ coloque 3 crases (`) na primeira e na última linha
 
 ## Emojis
 Use os dois pontos (:) e será sugerido. Apenas escreva o código do emoji! Para conhecer os códigos, existe um repositório com todos eles no perfil da ikatyang. Para acessá-lo [clique aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+
 👍 👎 😄
 
 ## Citar postagem
